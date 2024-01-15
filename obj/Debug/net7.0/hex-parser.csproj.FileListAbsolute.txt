@@ -1,0 +1,15 @@
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\bin\Debug\net7.0\hex-parser.exe
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\bin\Debug\net7.0\hex-parser.deps.json
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\bin\Debug\net7.0\hex-parser.runtimeconfig.json
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\bin\Debug\net7.0\hex-parser.dll
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\bin\Debug\net7.0\hex-parser.pdb
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.AssemblyInfo.cs
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.dll
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\refint\hex-parser.dll
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.pdb
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\hex-parser.genruntimeconfig.cache
+C:\Users\mathe\Documents\Dev\Projetos\hex-parser\obj\Debug\net7.0\ref\hex-parser.dll
