@@ -66,3 +66,5 @@ class HexParser {
     public string Hex2String(string hex) {
         return "";
     }
+    
+}
